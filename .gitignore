@@ -1,0 +1,15 @@
+# Godot 4 generated files
+.godot/
+/android/
+
+# Exports
+/builds/
+*.exe
+*.pck
+*.x86_64
+*.dmg
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
